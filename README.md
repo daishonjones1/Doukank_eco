@@ -62,4 +62,3 @@ Bagisto is using power of both of these frameworks and making best out of it out
 * Copyright (C) Doukank, Inc - All Rights Reserved
 * Unauthorized copying of this file, via any medium is strictly prohibited
 * Proprietary and confidential
-* Written by Khaled Badenjki <m.k.badenjki@gmail.com>, September 2019
